@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingChecker", "PingChecker\PingChecker.csproj", "{7E2DE4EE-D795-4256-BCB7-41ED3EE2E871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconEncoder", "IconEncoder\IconEncoder.csproj", "{0F03E18D-C1CE-404A-92F7-5DBCC4506BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2DE4EE-D795-4256-BCB7-41ED3EE2E871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2DE4EE-D795-4256-BCB7-41ED3EE2E871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2DE4EE-D795-4256-BCB7-41ED3EE2E871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2DE4EE-D795-4256-BCB7-41ED3EE2E871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F03E18D-C1CE-404A-92F7-5DBCC4506BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F03E18D-C1CE-404A-92F7-5DBCC4506BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F03E18D-C1CE-404A-92F7-5DBCC4506BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F03E18D-C1CE-404A-92F7-5DBCC4506BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
